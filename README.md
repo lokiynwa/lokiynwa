@@ -1,6 +1,5 @@
-<!-- Profile Banner (optional) -->
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL](https://github.com/lokiynwa/lokiynwa/blob/main/Loki%20github%20cover.png)" alt="Loki West — Software Engineer" width="100%" />
+  <img src="(https://github.com/lokiynwa/lokiynwa/blob/main/Loki%20github%20cover.png)" alt="Loki West — Software Engineer" width="100%" />
 </p>
 
 <h2 align="center">🧑‍💻 Loki West</h2>
@@ -53,10 +52,10 @@
 <!-- Note: these services can rate-limit. If a badge fails, refresh later. -->
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lokiynwa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ynwa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lokiynwa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokiynwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
