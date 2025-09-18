@@ -1,17 +1,11 @@
 <p align="center">
-  <img src="(https://github.com/lokiynwa/lokiynwa/blob/main/Loki%20github%20cover.png)" alt="Loki West — Software Engineer" width="100%" />
+  <img src="./banner.png" alt="Loki West — Software Engineer" width="100%" />
 </p>
-
 <h2 align="center">🧑‍💻 Loki West</h2>
 <p align="center">
   3rd-year Computer Science @ University of Leeds • Technology Degree Apprentice @ PwC UK<br/>
   Aspiring Software Engineer
 </p>
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/lokiynwa/count.svg" alt="Visitor's Count" />
-</div>
 
 ---
 
@@ -51,7 +45,6 @@
 ### 📊 GitHub Stats
 <!-- Note: these services can rate-limit. If a badge fails, refresh later. -->
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lokiynwa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lokiynwa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p>
